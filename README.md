@@ -133,3 +133,13 @@ If you don’t want to read the whole license, here’s a summary without legal 
 
 [image-1]:	https://app.codeship.com/projects/edbc3220-f394-0134-fad2-66135ababc06/status?branch=master
 [image-2]:	https://badges.gitter.im/emojicode/emojicode.svg
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
